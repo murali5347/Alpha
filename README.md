@@ -2,7 +2,7 @@
 This application will show you a simple login page and signup page with sqlite database as backend and once the user login into the app  he can see all the posted data by the differnt users
 
 
-1.Not used any third party library to fetch the data from the server.
+1.I have not used any third party library to fetch the data from the server.
 2.beautifull user interface
 3.secure login
 
