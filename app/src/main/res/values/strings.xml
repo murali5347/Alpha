@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Alpha</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="user_name">user_name</string>
+    <string name="username">username</string>
+    <string name="_12_53_am">12:53 am</string>
+    <string name="whether_you_re_looking_for_a_waterproof_phone_the_longest_battery_life_or_a_low_light_camera_there_s_an_android_phone_for_you">Whether you’re looking for a waterproof phone, the longest battery life or a low-light camera, there’s an Android phone for you.</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="password_must_be_7_characters_long_atleast_1upper_case_1lowercase_no_special_characters">
+        password must be 7+ characters long \n
+        atleast \n
+        1upper case \n
+        1lowercase \n
+        no special characters</string>
+    <string name="please_enter_valid_username_password">please enter valid username/password</string>
+
+</resources>
